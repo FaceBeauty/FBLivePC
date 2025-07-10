@@ -178,7 +178,6 @@ namespace FB {
 		FB_W_BodyBeautyThighThinning = 5, //!< 瘦大腿
 		FB_W_BodyBeautyNeckSlimming = 6, //!< 天鹅颈
 		FB_W_BodyBeautyChestEnlarging = 7 //!< 丰胸
-
 	};
 
 	/**

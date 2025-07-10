@@ -1,7 +1,7 @@
 #pragma once
 
-// ÍøÂç¼øÈ¨ÃÜÔ¿
+// ï¿½ï¿½ï¿½ï¿½ï¿½È¨ï¿½ï¿½Ô¿
 static const std::string appId = "";
 
-// ÀëÏß¼øÈ¨Ö¤Êé
+// ï¿½ï¿½ï¿½ß¼ï¿½È¨Ö¤ï¿½ï¿½
 static const std::string licenseStr = "";
