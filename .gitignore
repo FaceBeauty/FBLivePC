@@ -21,11 +21,11 @@
 
 # Build results
 
-[Dd]ebug/
+# [Dd]ebug/
 
 [Dd]ebugPublic/
 
-[Rr]elease/
+# [Rr]elease/
 
 [Rr]eleases/
 
@@ -45,7 +45,7 @@ bld/
 # Visual Studio 2019 cache/options directory
 
 .vs/
-Win32
+#Win32
 
 x64
 
@@ -53,3 +53,8 @@ x64
 
 demo/FaceBeautyPC/FaceBeautyBundle/
 demo/FaceBeautyPC/ThirdParty/
+demo/FaceBeautyPC/FaceBeautyDemo/Release/
+demo/FaceBeautyPC/FaceBeautyDemo/Debug/
+demo/FaceBeautyPC/FaceBeautyDemo/Win32/
+demo/FaceBeautyPC/Win32
+demo/FaceBeautyPC/Release
