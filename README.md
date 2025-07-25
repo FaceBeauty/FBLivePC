@@ -348,6 +348,7 @@ std::string getVersionString();
 ```c++
 /**
 * 在线鉴权初始化方法
+* 在license.h添加APPID
 */
 FB::initFaceBeautyOnline(appId.c_str(), ".\\..\\FaceBeautyBundle");
 ```
